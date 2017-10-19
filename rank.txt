@@ -1,0 +1,8 @@
+['Enactus University of Ottawa', 'Polycycle', 8982]
+['UBC Sprouts', 'Sprouts: Students Supporting Sustainable Food', 7745]
+['Indigenous Climate Action', 'Indigenous-Led Climate Justice -Toolkit for Action', 7698]
+['Melt Collective', 'Circular Center: Plastic Recycling in Remote areas', 5234]
+['School of the Environment, University of Toronto', 'Bringing Energy to the North with Jenni', 4927]
+['Jump In Student Society - Dalhousie University', 'Jump In HFX', 4458]
+['Earth Collective Farms', 'Sustainable Communities Initiative', 2965]
+['SEEDS Connections', '"Creating a Climate of Change"', 253]

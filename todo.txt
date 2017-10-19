@@ -1,0 +1,7 @@
++ list of items
++ rank list
+- visualize list
+- / 18 to show # of voters
+- vote history
+- text my phone / post when the position moves up
+
